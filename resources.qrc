@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/screenMetaData.js</file>
+        <file>qml/multitouch-test.qml</file>
+        <file>qml/multitouch-test-c.qml</file>
+        <file>qml/gestures-test.qml</file>
+        <file>qml/labyrinth.qml</file>
+        <file>qml/performance-test.qml</file>
+        <file>img/multitouch-test.png</file>
+        <file>img/gestures-test.png</file>
+        <file>img/exampleCat.jpeg</file>
+        <file>img/labyrinth.png</file>
+    </qresource>
+</RCC>
